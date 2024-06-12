@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818466634134",
+    "project_id": "cilikalfateh-2c227",
+    "storage_bucket": "cilikalfateh-2c227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818466634134:android:b802e07ef9824227c2c5b7",
+        "android_client_info": {
+          "package_name": "com.example.cilikalfateh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818466634134-d519vg66vr228usequgr23g12t0b690p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtD8z5PPnXLFyaj2YVKOL1Znt2K9gJS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818466634134-d519vg66vr228usequgr23g12t0b690p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
